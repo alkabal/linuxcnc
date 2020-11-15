@@ -539,7 +539,7 @@ MAX_VELOCITY = 7.5 # This is the max velocity of the axis.
 They could be transformed into pairs of lines like this:
 -----
 # This is the max velocity of the axis.
-MAX_VELOCITY = 7.5
+MAX_LINEAR_VELOCITY = 7.5
 -----
 
 === [TRAJ] settings
